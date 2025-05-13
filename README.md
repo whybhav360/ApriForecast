@@ -110,7 +110,7 @@ Model retraining dashboard
 🤝 Contributions
 Feel free to fork the repo, submit issues, or open pull requests!
 
-🧑‍💻 Author
-Vaibhav
+🧑‍💻 Author:
+Vaibhav Madaan,
 Android & AI Developer
 
