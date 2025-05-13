@@ -5,6 +5,8 @@ A lightweight FastAPI-based backend that forecasts apricot production for differ
 ---
 
 App Installation Guide:
+
+
 download the aab file from releases
 while installing the applicatio your phone might ask to approve request to download from this location - press allow
 while installation a pop up might come with a malicous/unknown software warning - either press scan app or install app without scanning
