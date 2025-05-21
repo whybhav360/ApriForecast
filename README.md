@@ -108,6 +108,12 @@ Deploy! 🎉
 
 Blue = Historical data | Orange = Forecast
 
+
+📱App Working:
+
+![ApriForecast-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1453de5a-190d-4cb4-be3e-d9620e2ce0e5)
+
+
 📌 Future Improvements:
 
 Add support for user-uploaded datasets
